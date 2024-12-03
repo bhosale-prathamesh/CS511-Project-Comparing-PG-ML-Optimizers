@@ -1,0 +1,338 @@
+2024-11-30 17:11:42,367 - INFO - Execution started.
+2024-11-30 17:11:42,374 - INFO - Read 22 queries.
+2024-11-30 17:11:42,374 - INFO - Using Bao: True
+2024-11-30 17:11:42,375 - INFO - Executing queries using PG optimizer for initial training.
+2024-11-30 17:11:50,593 - INFO - Query returned 38937 rows.
+2024-11-30 17:11:50,594 - INFO - Query latency: 8.22 seconds.
+2024-11-30 17:11:50,606 - INFO - Chunk 1: File: sample_queries/2.sql, Execution Time: 8.22s (PG Optimizer)
+2024-11-30 17:11:53,112 - INFO - Query returned 4 rows.
+2024-11-30 17:11:53,112 - INFO - Query latency: 2.51 seconds.
+2024-11-30 17:11:53,112 - INFO - Chunk 2: File: sample_queries/10.sql, Execution Time: 2.51s (PG Optimizer)
+2024-11-30 17:11:54,353 - INFO - Query returned 5 rows.
+2024-11-30 17:11:54,353 - INFO - Query latency: 1.24 seconds.
+2024-11-30 17:11:54,354 - INFO - Chunk 3: File: sample_queries/16.sql, Execution Time: 1.24s (PG Optimizer)
+2024-11-30 17:11:56,065 - INFO - Query returned 36354 rows.
+2024-11-30 17:11:56,065 - INFO - Query latency: 1.71 seconds.
+2024-11-30 17:11:56,074 - INFO - Chunk 4: File: sample_queries/14.sql, Execution Time: 1.71s (PG Optimizer)
+2024-11-30 17:11:57,812 - INFO - Query returned 38285 rows.
+2024-11-30 17:11:57,813 - INFO - Query latency: 1.74 seconds.
+2024-11-30 17:11:57,823 - INFO - Chunk 5: File: sample_queries/4.sql, Execution Time: 1.74s (PG Optimizer)
+2024-11-30 17:11:59,358 - INFO - Query returned 38937 rows.
+2024-11-30 17:11:59,359 - INFO - Query latency: 1.54 seconds.
+2024-11-30 17:11:59,367 - INFO - Chunk 6: File: sample_queries/2.sql, Execution Time: 1.54s (PG Optimizer)
+2024-11-30 17:12:00,496 - INFO - Query returned 4 rows.
+2024-11-30 17:12:00,496 - INFO - Query latency: 1.13 seconds.
+2024-11-30 17:12:00,496 - INFO - Chunk 7: File: sample_queries/7.sql, Execution Time: 1.13s (PG Optimizer)
+2024-11-30 17:12:01,534 - INFO - Query returned 4 rows.
+2024-11-30 17:12:01,534 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:12:01,534 - INFO - Chunk 8: File: sample_queries/11.sql, Execution Time: 1.04s (PG Optimizer)
+2024-11-30 17:12:02,586 - INFO - Query returned 4 rows.
+2024-11-30 17:12:02,586 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:12:02,586 - INFO - Chunk 9: File: sample_queries/19.sql, Execution Time: 1.05s (PG Optimizer)
+2024-11-30 17:12:03,661 - INFO - Query returned 4 rows.
+2024-11-30 17:12:03,661 - INFO - Query latency: 1.08 seconds.
+2024-11-30 17:12:03,662 - INFO - Chunk 10: File: sample_queries/10.sql, Execution Time: 1.08s (PG Optimizer)
+2024-11-30 17:12:05,056 - INFO - Query returned 36354 rows.
+2024-11-30 17:12:05,056 - INFO - Query latency: 1.39 seconds.
+2024-11-30 17:12:05,065 - INFO - Chunk 11: File: sample_queries/14.sql, Execution Time: 1.39s (PG Optimizer)
+2024-11-30 17:12:06,176 - INFO - Query returned 2 rows.
+2024-11-30 17:12:06,176 - INFO - Query latency: 1.11 seconds.
+2024-11-30 17:12:06,176 - INFO - Chunk 12: File: sample_queries/20.sql, Execution Time: 1.11s (PG Optimizer)
+2024-11-30 17:12:07,241 - INFO - Query returned 4 rows.
+2024-11-30 17:12:07,242 - INFO - Query latency: 1.07 seconds.
+2024-11-30 17:12:07,242 - INFO - Chunk 13: File: sample_queries/10.sql, Execution Time: 1.07s (PG Optimizer)
+2024-11-30 17:12:08,756 - INFO - Query returned 36354 rows.
+2024-11-30 17:12:08,757 - INFO - Query latency: 1.51 seconds.
+2024-11-30 17:12:08,765 - INFO - Chunk 14: File: sample_queries/14.sql, Execution Time: 1.51s (PG Optimizer)
+2024-11-30 17:12:10,225 - INFO - Query returned 38937 rows.
+2024-11-30 17:12:10,225 - INFO - Query latency: 1.46 seconds.
+2024-11-30 17:12:10,235 - INFO - Chunk 15: File: sample_queries/2.sql, Execution Time: 1.46s (PG Optimizer)
+2024-11-30 17:12:11,304 - INFO - Query returned 2 rows.
+2024-11-30 17:12:11,304 - INFO - Query latency: 1.07 seconds.
+2024-11-30 17:12:11,304 - INFO - Chunk 16: File: sample_queries/20.sql, Execution Time: 1.07s (PG Optimizer)
+2024-11-30 17:12:12,681 - INFO - Query returned 36354 rows.
+2024-11-30 17:12:12,682 - INFO - Query latency: 1.38 seconds.
+2024-11-30 17:12:12,690 - INFO - Chunk 17: File: sample_queries/14.sql, Execution Time: 1.38s (PG Optimizer)
+2024-11-30 17:12:13,809 - INFO - Query returned 4 rows.
+2024-11-30 17:12:13,809 - INFO - Query latency: 1.12 seconds.
+2024-11-30 17:12:13,809 - INFO - Chunk 18: File: sample_queries/21.sql, Execution Time: 1.12s (PG Optimizer)
+2024-11-30 17:12:15,285 - INFO - Query returned 38869 rows.
+2024-11-30 17:12:15,286 - INFO - Query latency: 1.48 seconds.
+2024-11-30 17:12:15,295 - INFO - Chunk 19: File: sample_queries/5.sql, Execution Time: 1.48s (PG Optimizer)
+2024-11-30 17:12:16,334 - INFO - Query returned 4 rows.
+2024-11-30 17:12:16,335 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:12:16,335 - INFO - Chunk 20: File: sample_queries/10.sql, Execution Time: 1.04s (PG Optimizer)
+2024-11-30 17:12:17,808 - INFO - Query returned 38869 rows.
+2024-11-30 17:12:17,809 - INFO - Query latency: 1.47 seconds.
+2024-11-30 17:12:17,819 - INFO - Chunk 21: File: sample_queries/5.sql, Execution Time: 1.47s (PG Optimizer)
+2024-11-30 17:12:18,900 - INFO - Query returned 4 rows.
+2024-11-30 17:12:18,900 - INFO - Query latency: 1.08 seconds.
+2024-11-30 17:12:18,900 - INFO - Chunk 22: File: sample_queries/3.sql, Execution Time: 1.08s (PG Optimizer)
+2024-11-30 17:12:18,900 - INFO - Retraining Bao model before processing chunk 1.
+2024-11-30 17:12:28,064 - INFO - Query returned 5 rows.
+2024-11-30 17:12:28,064 - INFO - Query latency: 2.00 seconds.
+2024-11-30 17:12:28,065 - INFO - Chunk 1, Query 1: File: sample_queries/17.sql, Execution Time: 2.00s
+2024-11-30 17:12:30,005 - INFO - Query returned 38269 rows.
+2024-11-30 17:12:30,006 - INFO - Query latency: 1.94 seconds.
+2024-11-30 17:12:30,016 - INFO - Chunk 1, Query 2: File: sample_queries/13.sql, Execution Time: 1.94s
+2024-11-30 17:12:31,369 - INFO - Query returned 2 rows.
+2024-11-30 17:12:31,370 - INFO - Query latency: 1.35 seconds.
+2024-11-30 17:12:31,370 - INFO - Chunk 1, Query 3: File: sample_queries/9.sql, Execution Time: 1.35s
+2024-11-30 17:12:32,357 - INFO - Query returned 5 rows.
+2024-11-30 17:12:32,357 - INFO - Query latency: 0.99 seconds.
+2024-11-30 17:12:32,357 - INFO - Chunk 1, Query 4: File: sample_queries/17.sql, Execution Time: 0.99s
+2024-11-30 17:12:33,448 - INFO - Query returned 4 rows.
+2024-11-30 17:12:33,448 - INFO - Query latency: 1.09 seconds.
+2024-11-30 17:12:33,448 - INFO - Chunk 1, Query 5: File: sample_queries/12.sql, Execution Time: 1.09s
+2024-11-30 17:12:34,552 - INFO - Query returned 4 rows.
+2024-11-30 17:12:34,552 - INFO - Query latency: 1.10 seconds.
+2024-11-30 17:12:34,552 - INFO - Chunk 1, Query 6: File: sample_queries/12.sql, Execution Time: 1.10s
+2024-11-30 17:12:35,541 - INFO - Query returned 5 rows.
+2024-11-30 17:12:35,541 - INFO - Query latency: 0.99 seconds.
+2024-11-30 17:12:35,541 - INFO - Chunk 1, Query 7: File: sample_queries/6.sql, Execution Time: 0.99s
+2024-11-30 17:12:36,673 - INFO - Query returned 2 rows.
+2024-11-30 17:12:36,673 - INFO - Query latency: 1.13 seconds.
+2024-11-30 17:12:36,673 - INFO - Chunk 1, Query 8: File: sample_queries/22.sql, Execution Time: 1.13s
+2024-11-30 17:12:38,206 - INFO - Query returned 38869 rows.
+2024-11-30 17:12:38,209 - INFO - Query latency: 1.54 seconds.
+2024-11-30 17:12:38,219 - INFO - Chunk 1, Query 9: File: sample_queries/5.sql, Execution Time: 1.54s
+2024-11-30 17:12:39,899 - INFO - Query returned 38285 rows.
+2024-11-30 17:12:39,900 - INFO - Query latency: 1.68 seconds.
+2024-11-30 17:12:39,913 - INFO - Chunk 1, Query 10: File: sample_queries/4.sql, Execution Time: 1.68s
+2024-11-30 17:12:41,273 - INFO - Query returned 2 rows.
+2024-11-30 17:12:41,273 - INFO - Query latency: 1.36 seconds.
+2024-11-30 17:12:41,273 - INFO - Chunk 1, Query 11: File: sample_queries/20.sql, Execution Time: 1.36s
+2024-11-30 17:12:42,294 - INFO - Query returned 2 rows.
+2024-11-30 17:12:42,294 - INFO - Query latency: 1.02 seconds.
+2024-11-30 17:12:42,294 - INFO - Chunk 1, Query 12: File: sample_queries/9.sql, Execution Time: 1.02s
+2024-11-30 17:12:43,301 - INFO - Query returned 5 rows.
+2024-11-30 17:12:43,302 - INFO - Query latency: 1.01 seconds.
+2024-11-30 17:12:43,302 - INFO - Chunk 1, Query 13: File: sample_queries/18.sql, Execution Time: 1.01s
+2024-11-30 17:12:44,349 - INFO - Query returned 4 rows.
+2024-11-30 17:12:44,350 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:12:44,350 - INFO - Chunk 1, Query 14: File: sample_queries/21.sql, Execution Time: 1.05s
+2024-11-30 17:12:45,306 - INFO - Query returned 5 rows.
+2024-11-30 17:12:45,307 - INFO - Query latency: 0.96 seconds.
+2024-11-30 17:12:45,307 - INFO - Chunk 1, Query 15: File: sample_queries/6.sql, Execution Time: 0.96s
+2024-11-30 17:12:46,367 - INFO - Query returned 2 rows.
+2024-11-30 17:12:46,367 - INFO - Query latency: 1.06 seconds.
+2024-11-30 17:12:46,367 - INFO - Chunk 1, Query 16: File: sample_queries/22.sql, Execution Time: 1.06s
+2024-11-30 17:12:47,582 - INFO - Query returned 5 rows.
+2024-11-30 17:12:47,582 - INFO - Query latency: 1.21 seconds.
+2024-11-30 17:12:47,582 - INFO - Chunk 1, Query 17: File: sample_queries/6.sql, Execution Time: 1.21s
+2024-11-30 17:12:48,800 - INFO - Query returned 4 rows.
+2024-11-30 17:12:48,800 - INFO - Query latency: 1.22 seconds.
+2024-11-30 17:12:48,800 - INFO - Chunk 1, Query 18: File: sample_queries/21.sql, Execution Time: 1.22s
+2024-11-30 17:12:49,891 - INFO - Query returned 4 rows.
+2024-11-30 17:12:49,892 - INFO - Query latency: 1.09 seconds.
+2024-11-30 17:12:49,892 - INFO - Chunk 1, Query 19: File: sample_queries/3.sql, Execution Time: 1.09s
+2024-11-30 17:12:50,937 - INFO - Query returned 4 rows.
+2024-11-30 17:12:50,937 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:12:50,938 - INFO - Chunk 1, Query 20: File: sample_queries/11.sql, Execution Time: 1.05s
+2024-11-30 17:12:52,003 - INFO - Query returned 2 rows.
+2024-11-30 17:12:52,004 - INFO - Query latency: 1.07 seconds.
+2024-11-30 17:12:52,004 - INFO - Chunk 1, Query 21: File: sample_queries/15.sql, Execution Time: 1.07s
+2024-11-30 17:12:52,959 - INFO - Query returned 5 rows.
+2024-11-30 17:12:52,960 - INFO - Query latency: 0.96 seconds.
+2024-11-30 17:12:52,960 - INFO - Chunk 1, Query 22: File: sample_queries/16.sql, Execution Time: 0.96s
+2024-11-30 17:12:52,960 - INFO - Retraining Bao model before processing chunk 2.
+2024-11-30 17:13:03,920 - INFO - Query returned 4 rows.
+2024-11-30 17:13:03,921 - INFO - Query latency: 2.78 seconds.
+2024-11-30 17:13:03,922 - INFO - Chunk 2, Query 1: File: sample_queries/11.sql, Execution Time: 2.78s
+2024-11-30 17:13:06,195 - INFO - Query returned 2 rows.
+2024-11-30 17:13:06,195 - INFO - Query latency: 2.27 seconds.
+2024-11-30 17:13:06,196 - INFO - Chunk 2, Query 2: File: sample_queries/15.sql, Execution Time: 2.27s
+2024-11-30 17:13:07,392 - INFO - Query returned 4 rows.
+2024-11-30 17:13:07,392 - INFO - Query latency: 1.20 seconds.
+2024-11-30 17:13:07,392 - INFO - Chunk 2, Query 3: File: sample_queries/12.sql, Execution Time: 1.20s
+2024-11-30 17:13:08,422 - INFO - Query returned 5 rows.
+2024-11-30 17:13:08,423 - INFO - Query latency: 1.03 seconds.
+2024-11-30 17:13:08,423 - INFO - Chunk 2, Query 4: File: sample_queries/16.sql, Execution Time: 1.03s
+2024-11-30 17:13:09,597 - INFO - Query returned 2 rows.
+2024-11-30 17:13:09,598 - INFO - Query latency: 1.17 seconds.
+2024-11-30 17:13:09,598 - INFO - Chunk 2, Query 5: File: sample_queries/22.sql, Execution Time: 1.17s
+2024-11-30 17:13:10,889 - INFO - Query returned 5 rows.
+2024-11-30 17:13:10,889 - INFO - Query latency: 1.29 seconds.
+2024-11-30 17:13:10,889 - INFO - Chunk 2, Query 6: File: sample_queries/18.sql, Execution Time: 1.29s
+2024-11-30 17:13:12,300 - INFO - Query returned 5 rows.
+2024-11-30 17:13:12,301 - INFO - Query latency: 1.41 seconds.
+2024-11-30 17:13:12,301 - INFO - Chunk 2, Query 7: File: sample_queries/18.sql, Execution Time: 1.41s
+2024-11-30 17:13:14,275 - INFO - Query returned 36354 rows.
+2024-11-30 17:13:14,275 - INFO - Query latency: 1.97 seconds.
+2024-11-30 17:13:14,284 - INFO - Chunk 2, Query 8: File: sample_queries/14.sql, Execution Time: 1.97s
+2024-11-30 17:13:15,460 - INFO - Query returned 2 rows.
+2024-11-30 17:13:15,460 - INFO - Query latency: 1.17 seconds.
+2024-11-30 17:13:15,461 - INFO - Chunk 2, Query 9: File: sample_queries/15.sql, Execution Time: 1.17s
+2024-11-30 17:13:16,454 - INFO - Query returned 5 rows.
+2024-11-30 17:13:16,455 - INFO - Query latency: 0.99 seconds.
+2024-11-30 17:13:16,455 - INFO - Chunk 2, Query 10: File: sample_queries/8.sql, Execution Time: 0.99s
+2024-11-30 17:13:18,112 - INFO - Query returned 38937 rows.
+2024-11-30 17:13:18,118 - INFO - Query latency: 1.66 seconds.
+2024-11-30 17:13:18,129 - INFO - Chunk 2, Query 11: File: sample_queries/2.sql, Execution Time: 1.66s
+2024-11-30 17:13:19,373 - INFO - Query returned 2 rows.
+2024-11-30 17:13:19,373 - INFO - Query latency: 1.24 seconds.
+2024-11-30 17:13:19,374 - INFO - Chunk 2, Query 12: File: sample_queries/22.sql, Execution Time: 1.24s
+2024-11-30 17:13:21,408 - INFO - Query returned 38269 rows.
+2024-11-30 17:13:21,409 - INFO - Query latency: 2.03 seconds.
+2024-11-30 17:13:21,419 - INFO - Chunk 2, Query 13: File: sample_queries/13.sql, Execution Time: 2.03s
+2024-11-30 17:13:23,164 - INFO - Query returned 38285 rows.
+2024-11-30 17:13:23,164 - INFO - Query latency: 1.74 seconds.
+2024-11-30 17:13:23,173 - INFO - Chunk 2, Query 14: File: sample_queries/4.sql, Execution Time: 1.74s
+2024-11-30 17:13:25,100 - INFO - Query returned 38269 rows.
+2024-11-30 17:13:25,101 - INFO - Query latency: 1.93 seconds.
+2024-11-30 17:13:25,111 - INFO - Chunk 2, Query 15: File: sample_queries/13.sql, Execution Time: 1.93s
+2024-11-30 17:13:26,403 - INFO - Query returned 5 rows.
+2024-11-30 17:13:26,403 - INFO - Query latency: 1.29 seconds.
+2024-11-30 17:13:26,404 - INFO - Chunk 2, Query 16: File: sample_queries/18.sql, Execution Time: 1.29s
+2024-11-30 17:13:27,544 - INFO - Query returned 2 rows.
+2024-11-30 17:13:27,545 - INFO - Query latency: 1.14 seconds.
+2024-11-30 17:13:27,545 - INFO - Chunk 2, Query 17: File: sample_queries/9.sql, Execution Time: 1.14s
+2024-11-30 17:13:29,165 - INFO - Query returned 38937 rows.
+2024-11-30 17:13:29,167 - INFO - Query latency: 1.62 seconds.
+2024-11-30 17:13:29,177 - INFO - Chunk 2, Query 18: File: sample_queries/2.sql, Execution Time: 1.62s
+2024-11-30 17:13:30,340 - INFO - Query returned 4 rows.
+2024-11-30 17:13:30,340 - INFO - Query latency: 1.16 seconds.
+2024-11-30 17:13:30,340 - INFO - Chunk 2, Query 19: File: sample_queries/21.sql, Execution Time: 1.16s
+2024-11-30 17:13:31,402 - INFO - Query returned 4 rows.
+2024-11-30 17:13:31,402 - INFO - Query latency: 1.06 seconds.
+2024-11-30 17:13:31,402 - INFO - Chunk 2, Query 20: File: sample_queries/3.sql, Execution Time: 1.06s
+2024-11-30 17:13:32,405 - INFO - Query returned 5 rows.
+2024-11-30 17:13:32,406 - INFO - Query latency: 1.00 seconds.
+2024-11-30 17:13:32,407 - INFO - Chunk 2, Query 21: File: sample_queries/6.sql, Execution Time: 1.00s
+2024-11-30 17:13:33,976 - INFO - Query returned 38869 rows.
+2024-11-30 17:13:33,976 - INFO - Query latency: 1.57 seconds.
+2024-11-30 17:13:33,985 - INFO - Chunk 2, Query 22: File: sample_queries/5.sql, Execution Time: 1.57s
+2024-11-30 17:13:33,986 - INFO - Retraining Bao model before processing chunk 3.
+2024-11-30 17:13:44,748 - INFO - Query returned 2 rows.
+2024-11-30 17:13:44,749 - INFO - Query latency: 1.54 seconds.
+2024-11-30 17:13:44,749 - INFO - Chunk 3, Query 1: File: sample_queries/15.sql, Execution Time: 1.54s
+2024-11-30 17:13:45,865 - INFO - Query returned 4 rows.
+2024-11-30 17:13:45,865 - INFO - Query latency: 1.12 seconds.
+2024-11-30 17:13:45,865 - INFO - Chunk 3, Query 2: File: sample_queries/10.sql, Execution Time: 1.12s
+2024-11-30 17:13:46,830 - INFO - Query returned 5 rows.
+2024-11-30 17:13:46,830 - INFO - Query latency: 0.96 seconds.
+2024-11-30 17:13:46,830 - INFO - Chunk 3, Query 3: File: sample_queries/16.sql, Execution Time: 0.96s
+2024-11-30 17:13:47,897 - INFO - Query returned 2 rows.
+2024-11-30 17:13:47,897 - INFO - Query latency: 1.07 seconds.
+2024-11-30 17:13:47,897 - INFO - Chunk 3, Query 4: File: sample_queries/15.sql, Execution Time: 1.07s
+2024-11-30 17:13:49,441 - INFO - Query returned 36354 rows.
+2024-11-30 17:13:49,451 - INFO - Query latency: 1.55 seconds.
+2024-11-30 17:13:49,462 - INFO - Chunk 3, Query 5: File: sample_queries/14.sql, Execution Time: 1.55s
+2024-11-30 17:13:50,418 - INFO - Query returned 5 rows.
+2024-11-30 17:13:50,419 - INFO - Query latency: 0.96 seconds.
+2024-11-30 17:13:50,419 - INFO - Chunk 3, Query 6: File: sample_queries/8.sql, Execution Time: 0.96s
+2024-11-30 17:13:51,459 - INFO - Query returned 4 rows.
+2024-11-30 17:13:51,459 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:13:51,459 - INFO - Chunk 3, Query 7: File: sample_queries/7.sql, Execution Time: 1.04s
+2024-11-30 17:13:52,435 - INFO - Query returned 5 rows.
+2024-11-30 17:13:52,435 - INFO - Query latency: 0.98 seconds.
+2024-11-30 17:13:52,435 - INFO - Chunk 3, Query 8: File: sample_queries/16.sql, Execution Time: 0.98s
+2024-11-30 17:13:53,942 - INFO - Query returned 38937 rows.
+2024-11-30 17:13:53,942 - INFO - Query latency: 1.51 seconds.
+2024-11-30 17:13:53,951 - INFO - Chunk 3, Query 9: File: sample_queries/2.sql, Execution Time: 1.51s
+2024-11-30 17:13:54,942 - INFO - Query returned 5 rows.
+2024-11-30 17:13:54,943 - INFO - Query latency: 0.99 seconds.
+2024-11-30 17:13:54,943 - INFO - Chunk 3, Query 10: File: sample_queries/18.sql, Execution Time: 0.99s
+2024-11-30 17:13:55,983 - INFO - Query returned 5 rows.
+2024-11-30 17:13:55,984 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:13:55,984 - INFO - Chunk 3, Query 11: File: sample_queries/8.sql, Execution Time: 1.04s
+2024-11-30 17:13:57,057 - INFO - Query returned 4 rows.
+2024-11-30 17:13:57,058 - INFO - Query latency: 1.07 seconds.
+2024-11-30 17:13:57,058 - INFO - Chunk 3, Query 12: File: sample_queries/1.sql, Execution Time: 1.07s
+2024-11-30 17:13:58,206 - INFO - Query returned 2 rows.
+2024-11-30 17:13:58,206 - INFO - Query latency: 1.15 seconds.
+2024-11-30 17:13:58,207 - INFO - Chunk 3, Query 13: File: sample_queries/15.sql, Execution Time: 1.15s
+2024-11-30 17:13:59,268 - INFO - Query returned 2 rows.
+2024-11-30 17:13:59,269 - INFO - Query latency: 1.06 seconds.
+2024-11-30 17:13:59,269 - INFO - Chunk 3, Query 14: File: sample_queries/15.sql, Execution Time: 1.06s
+2024-11-30 17:14:00,319 - INFO - Query returned 4 rows.
+2024-11-30 17:14:00,319 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:14:00,319 - INFO - Chunk 3, Query 15: File: sample_queries/21.sql, Execution Time: 1.05s
+2024-11-30 17:14:01,356 - INFO - Query returned 2 rows.
+2024-11-30 17:14:01,357 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:14:01,357 - INFO - Chunk 3, Query 16: File: sample_queries/15.sql, Execution Time: 1.04s
+2024-11-30 17:14:02,415 - INFO - Query returned 4 rows.
+2024-11-30 17:14:02,415 - INFO - Query latency: 1.06 seconds.
+2024-11-30 17:14:02,415 - INFO - Chunk 3, Query 17: File: sample_queries/21.sql, Execution Time: 1.06s
+2024-11-30 17:14:03,498 - INFO - Query returned 4 rows.
+2024-11-30 17:14:03,499 - INFO - Query latency: 1.08 seconds.
+2024-11-30 17:14:03,499 - INFO - Chunk 3, Query 18: File: sample_queries/7.sql, Execution Time: 1.08s
+2024-11-30 17:14:04,470 - INFO - Query returned 5 rows.
+2024-11-30 17:14:04,470 - INFO - Query latency: 0.97 seconds.
+2024-11-30 17:14:04,470 - INFO - Chunk 3, Query 19: File: sample_queries/18.sql, Execution Time: 0.97s
+2024-11-30 17:14:05,972 - INFO - Query returned 36354 rows.
+2024-11-30 17:14:05,973 - INFO - Query latency: 1.50 seconds.
+2024-11-30 17:14:05,984 - INFO - Chunk 3, Query 20: File: sample_queries/14.sql, Execution Time: 1.50s
+2024-11-30 17:14:07,093 - INFO - Query returned 2 rows.
+2024-11-30 17:14:07,093 - INFO - Query latency: 1.11 seconds.
+2024-11-30 17:14:07,093 - INFO - Chunk 3, Query 21: File: sample_queries/9.sql, Execution Time: 1.11s
+2024-11-30 17:14:08,154 - INFO - Query returned 2 rows.
+2024-11-30 17:14:08,155 - INFO - Query latency: 1.06 seconds.
+2024-11-30 17:14:08,155 - INFO - Chunk 3, Query 22: File: sample_queries/20.sql, Execution Time: 1.06s
+2024-11-30 17:14:08,155 - INFO - Retraining Bao model before processing chunk 4.
+2024-11-30 17:14:15,128 - INFO - Query returned 4 rows.
+2024-11-30 17:14:15,128 - INFO - Query latency: 1.07 seconds.
+2024-11-30 17:14:15,129 - INFO - Chunk 4, Query 1: File: sample_queries/12.sql, Execution Time: 1.07s
+2024-11-30 17:14:16,163 - INFO - Query returned 4 rows.
+2024-11-30 17:14:16,164 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:14:16,164 - INFO - Chunk 4, Query 2: File: sample_queries/11.sql, Execution Time: 1.04s
+2024-11-30 17:14:17,211 - INFO - Query returned 4 rows.
+2024-11-30 17:14:17,211 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:14:17,211 - INFO - Chunk 4, Query 3: File: sample_queries/12.sql, Execution Time: 1.05s
+2024-11-30 17:14:18,247 - INFO - Query returned 2 rows.
+2024-11-30 17:14:18,248 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:14:18,248 - INFO - Chunk 4, Query 4: File: sample_queries/22.sql, Execution Time: 1.04s
+2024-11-30 17:14:19,709 - INFO - Query returned 38869 rows.
+2024-11-30 17:14:19,709 - INFO - Query latency: 1.46 seconds.
+2024-11-30 17:14:19,718 - INFO - Chunk 4, Query 5: File: sample_queries/5.sql, Execution Time: 1.46s
+2024-11-30 17:14:20,762 - INFO - Query returned 4 rows.
+2024-11-30 17:14:20,762 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:14:20,762 - INFO - Chunk 4, Query 6: File: sample_queries/19.sql, Execution Time: 1.04s
+2024-11-30 17:14:21,783 - INFO - Query returned 4 rows.
+2024-11-30 17:14:21,784 - INFO - Query latency: 1.02 seconds.
+2024-11-30 17:14:21,784 - INFO - Chunk 4, Query 7: File: sample_queries/11.sql, Execution Time: 1.02s
+2024-11-30 17:14:22,779 - INFO - Query returned 5 rows.
+2024-11-30 17:14:22,781 - INFO - Query latency: 1.00 seconds.
+2024-11-30 17:14:22,781 - INFO - Chunk 4, Query 8: File: sample_queries/18.sql, Execution Time: 1.00s
+2024-11-30 17:14:23,929 - INFO - Query returned 2 rows.
+2024-11-30 17:14:23,929 - INFO - Query latency: 1.15 seconds.
+2024-11-30 17:14:23,929 - INFO - Chunk 4, Query 9: File: sample_queries/9.sql, Execution Time: 1.15s
+2024-11-30 17:14:25,071 - INFO - Query returned 2 rows.
+2024-11-30 17:14:25,072 - INFO - Query latency: 1.14 seconds.
+2024-11-30 17:14:25,072 - INFO - Chunk 4, Query 10: File: sample_queries/20.sql, Execution Time: 1.14s
+2024-11-30 17:14:26,231 - INFO - Query returned 2 rows.
+2024-11-30 17:14:26,231 - INFO - Query latency: 1.16 seconds.
+2024-11-30 17:14:26,231 - INFO - Chunk 4, Query 11: File: sample_queries/9.sql, Execution Time: 1.16s
+2024-11-30 17:14:27,218 - INFO - Query returned 5 rows.
+2024-11-30 17:14:27,218 - INFO - Query latency: 0.99 seconds.
+2024-11-30 17:14:27,218 - INFO - Chunk 4, Query 12: File: sample_queries/6.sql, Execution Time: 0.99s
+2024-11-30 17:14:28,312 - INFO - Query returned 4 rows.
+2024-11-30 17:14:28,313 - INFO - Query latency: 1.09 seconds.
+2024-11-30 17:14:28,313 - INFO - Chunk 4, Query 13: File: sample_queries/10.sql, Execution Time: 1.09s
+2024-11-30 17:14:29,368 - INFO - Query returned 4 rows.
+2024-11-30 17:14:29,368 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:14:29,368 - INFO - Chunk 4, Query 14: File: sample_queries/3.sql, Execution Time: 1.05s
+2024-11-30 17:14:30,932 - INFO - Query returned 38937 rows.
+2024-11-30 17:14:30,933 - INFO - Query latency: 1.56 seconds.
+2024-11-30 17:14:30,943 - INFO - Chunk 4, Query 15: File: sample_queries/2.sql, Execution Time: 1.56s
+2024-11-30 17:14:31,992 - INFO - Query returned 2 rows.
+2024-11-30 17:14:31,993 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:14:31,993 - INFO - Chunk 4, Query 16: File: sample_queries/20.sql, Execution Time: 1.05s
+2024-11-30 17:14:33,031 - INFO - Query returned 2 rows.
+2024-11-30 17:14:33,032 - INFO - Query latency: 1.04 seconds.
+2024-11-30 17:14:33,032 - INFO - Chunk 4, Query 17: File: sample_queries/15.sql, Execution Time: 1.04s
+2024-11-30 17:14:34,483 - INFO - Query returned 38937 rows.
+2024-11-30 17:14:34,484 - INFO - Query latency: 1.45 seconds.
+2024-11-30 17:14:34,493 - INFO - Chunk 4, Query 18: File: sample_queries/2.sql, Execution Time: 1.45s
+2024-11-30 17:14:35,549 - INFO - Query returned 4 rows.
+2024-11-30 17:14:35,550 - INFO - Query latency: 1.06 seconds.
+2024-11-30 17:14:35,550 - INFO - Chunk 4, Query 19: File: sample_queries/12.sql, Execution Time: 1.06s
+2024-11-30 17:14:36,596 - INFO - Query returned 4 rows.
+2024-11-30 17:14:36,597 - INFO - Query latency: 1.05 seconds.
+2024-11-30 17:14:36,597 - INFO - Chunk 4, Query 20: File: sample_queries/19.sql, Execution Time: 1.05s
+2024-11-30 17:14:37,628 - INFO - Query returned 4 rows.
+2024-11-30 17:14:37,628 - INFO - Query latency: 1.03 seconds.
+2024-11-30 17:14:37,628 - INFO - Chunk 4, Query 21: File: sample_queries/19.sql, Execution Time: 1.03s
+2024-11-30 17:14:38,596 - INFO - Query returned 5 rows.
+2024-11-30 17:14:38,596 - INFO - Query latency: 0.97 seconds.
+2024-11-30 17:14:38,597 - INFO - Chunk 4, Query 22: File: sample_queries/8.sql, Execution Time: 0.97s

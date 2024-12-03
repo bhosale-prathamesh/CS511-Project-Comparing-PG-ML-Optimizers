@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>vscode-remote://ssh-remote%2Bfa24-cs527-052.cs.illinois.edu/home/bhosale5/BaoForPostgreSQL/execution_log_500mb_new_queries.txt</string>
+</dict>
+</plist>
